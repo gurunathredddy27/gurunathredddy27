@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gurunathredddy27
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning about github
-- 💞️ I’m looking to collaborate on how to use git tools
+- 💞️ I’m looking to collaborate on how to learn the code in a fun and efficient way
 - 📫 How to reach me gurunathreddy2727@gmial.com
 
 <!---
