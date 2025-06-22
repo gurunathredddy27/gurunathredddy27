@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gurunathreddy27) 
-[![Portfolio](https://img.shields.io/badge/Streamlit-%23f63366.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://my-portfolio-4tp4.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio--Streamlit-%23f63366?style=for-the-badge&logo=streamlit&logoColor=white)](https://my-portfolio-4tp4.onrender.com/)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
